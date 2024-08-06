@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/enfyna/enfyna/assets/91965312/4ca2d083-48e7-43a2-8ea7-5086731011fa" />
+  <img src="https://github.com/user-attachments/assets/1ba36d56-baa1-4a7b-843b-34c1a7731f50" />
 </p>
 
 <p align="middle">
