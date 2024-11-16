@@ -9,6 +9,6 @@
 
 <p align=middle>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=enfyna&theme=transparent&card_width=800&hide_border=true&dates=777777&fire=CC2222&ring=CC2222&currStreakNum=22CC22&sideNums=22CC22&currStreakLabel=CC2222&sideLabels=CC2222" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-orcin-seven.vercel.app/?user=enfyna&theme=transparent&card_width=800&hide_border=true&dates=777777&fire=CC2222&ring=CC2222&currStreakNum=22CC22&sideNums=22CC22&currStreakLabel=CC2222&sideLabels=CC2222" alt="GitHub Streak" />
   </a>  
 </p>
